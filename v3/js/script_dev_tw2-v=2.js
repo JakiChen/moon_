@@ -465,7 +465,7 @@ var beforeOpenScrollPos = 0;
       //       mp3 : './audio/92914_colorsofyou.mp3'
       // }), 98, true, true);
       // var tempUrl = externalStorage + '/audio/';
-      var tempUrl = '/_v3/audio/';
+      var tempUrl = '/v3/audio/';
       // var tempUrl = 'http://52.78.8.255/wp-content/uploads/2019/03/';
       // loadSoundFile(tempUrl + '92914_colorsofyou.mp3', 98, true, true);
       loadSoundFile(tempUrl + 'fromm_64_none.mp3', 98, true, true);
@@ -482,7 +482,7 @@ var beforeOpenScrollPos = 0;
       //if
 
       $.ajax({
-            url : '/_v3/js/pfdata.json?v=' + (new Date).getTime(),
+            url : '/v3/js/pfdata.json?v=' + (new Date).getTime(),
             dataType : "json",
             // async : false,
             success : function(data){
