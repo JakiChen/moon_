@@ -1,0 +1,75 @@
+{"data" : [
+      {
+            "idx" : 5,
+            "title" : "My gillette<br> Micro Web Site",
+            "keyvisual" : ["http://13.124.4.37/portfolio_data/mygillette_201803.png"],
+            "movie" : { "mp4" : "http://13.124.4.37/portfolio_data/mygillette_201803.mp4",
+                  "webm" : "http://13.124.4.37/portfolio_data/mygillette_201803.webm"},
+            "clientlogo" : "http://13.124.4.37/portfolio_data/gillettelogo.png",
+            "client" : "Gillette",
+            "description" : "Responsive Web site , CMS Web site",
+            "role" : "Front-end Development",
+            "date" : "2018.03"
+      },
+      {
+            "idx" : 4,
+            "title" : "Gillette<br> Pop-Up Store",
+            "keyvisual" : ["http://13.124.4.37/portfolio_data/gillette2016.jpg"],
+            "movie" : { "mp4" : "http://13.124.4.37/portfolio_data/gillette2016_3000kbps.mp4",
+                  "webm" : "http://13.124.4.37/portfolio_data/gillette2016.webm"},
+            "clientlogo" : "http://13.124.4.37/portfolio_data/gillettelogo.png",
+            "client" : "Gillette",
+            "description" : "Slide Interaction Media (Html5, CSS3, Javascript + Magnetic sensor)",
+            "role" : "UI interaction Development",
+            "date" : "2016.10"
+      },
+      {
+            "idx" : 3,
+            "title" : "TOYOTA<br> Brand Site Renewal",
+            "keyvisual" : ["http://13.124.4.37/portfolio_data/toyota_co_kr.jpg"],
+            "movie" : { "mp4" : "http://13.124.4.37/portfolio_data/toyota_co_kr_3000kbps.mp4",
+                  "webm" : "http://13.124.4.37/portfolio_data/toyota_co_kr_3000kbps.webm"},
+            "clientlogo" : "http://13.124.4.37/portfolio_data/toyota_logo.png",
+            "client" : "TOYOTA",
+            "description" : "Responsive Web site (javascript, jQuery)",
+            "role" : "Javascript Development",
+            "date" : "2016.06"
+      },
+      {
+            "idx" : 2,
+            "title" : "NIKE<br> Techpack Studio",
+            "keyvisual" : ["http://13.124.4.37/portfolio_data/niketechpack.jpg"],
+            "movie" : { "mp4" : "http://13.124.4.37/portfolio_data/niketechpack.mp4",
+                  "webm" : "http://13.124.4.37/portfolio_data/niketechpack.webm"},
+            "clientlogo" : "http://13.124.4.37/portfolio_data/nike_logo.png",
+            "client" : "NIKE",
+            "description" : "Touch Interaction Media (Html5, CSS3, Javascript)",
+            "role" : "UI interaction Development",
+            "date" : "2015.10"
+      },
+      {
+            "idx" : 1,
+            "title" : "Hyundai<br> Department PanGyo",
+            "keyvisual" : ["http://13.124.4.37/portfolio_data/pangyo_hd_2015.png"],
+            "movie" : { "mp4" : "http://13.124.4.37/portfolio_data/pangyo_hd_2015.mp4",
+                  "webm" : "http://13.124.4.37/portfolio_data/pangyo_hd_2015.webm"},
+            "clientlogo" : "",
+            "client" : "Hyundai Department",
+            "description" : "PC Web site",
+            "role" : "Front-end Development",
+            "date" : "2015.01"
+      },
+      {
+            "idx" : 0,
+            "title" : "Kiehl’s<br> Ultra Love Campaign",
+            "keyvisual" : ["http://13.124.4.37/portfolio_data/KiehlsUltraLoveCampaign01.png"],
+            "movie" : { "mp4" : "",
+                  "webm" : ""},
+            "clientlogo" : "http://13.124.4.37/portfolio_data/kiehl_logo.png",
+            "client" : "KIEHL&acute;S",
+            "description" : "Interactive Media Wall, PC Web site",
+            "role" : "UI interaction Development",
+            "date" : "2015.01"
+      }
+]
+}
