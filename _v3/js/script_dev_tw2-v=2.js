@@ -1,7 +1,7 @@
 var soundVolume = 0.2;
 var mutemode = false;
 var lightMode = false;
-var externalStorage = "http://13.124.4.37/";
+var externalStorage = "https://jakichen.github.io/naminsik/";
 // localStorage.clear();
 //운영용 코드
 
